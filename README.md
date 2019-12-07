@@ -10,7 +10,7 @@ Click on `Manage` under `Host` -> `Services` -> `Select the SSH service “TSM-S
 
 img
 
-Once SSH service is started, We need to allow the SSH Client in ESXi firewall. To allow SSH client in ESXi Firewall, Click on Networking -> Firewall -> Select SSH Client -> Click on “Enable” under Actions Menu.
+Once SSH service is started, We need to allow the SSH Client in ESXi firewall. To allow SSH client in ESXi Firewall, `Click on Networking` -> `Firewall` -> `Select SSH Client` -> `Click on “Enable”` under `Actions Menu`.
 
 img
 
